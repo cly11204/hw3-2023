@@ -83,7 +83,7 @@ div.green{
 }
 footer {
     background:#000000;
-    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    background: linear-gradient(90deg, #000000 0%, #0066ff 25%, #0000ff 70%, #000000 100%);
     border: solid 5px #ffffff;
 }
 footer > p {
